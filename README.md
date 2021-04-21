@@ -27,4 +27,4 @@ anyway, the person may as well be picked up on the way down and leave an extra s
 for someone else.
 This addition, when tested alongside the mechanical system, gives an efficiency increase of 40-50%
 meaning the people modeled in this system wait significantly less time for the lift on average. The
-results of thousands of test runs and clear logical superiority mean my modified lift model is undeiniably superior to the mechanical model provided
+results of thousands of test runs and clear logical superiority mean my modified lift model is undeiniably superior to the mechanical model provided.
